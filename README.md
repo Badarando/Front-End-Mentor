@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Badarando/Front-End-Mentor)
-- Live Site URL: [Add live site URL here](https://badarando.github.io/Front-End-Mentor/)
+- Solution URL: [Solution URL](https://github.com/Badarando/Front-End-Mentor)
+- Live Site URL: [Live site URL](https://badarando.github.io/Front-End-Mentor/)
 
 ## My process
   Comecei a analizar o projeto formulando cada "caixa" que deveria ser feita para que cada parte do projeto ficasse como o original, depois com o software do photoshop foi fácil saber exatamente o tamanho de cada componente do design. Decidi utilizar Flexbox pois parece ser a ferramenta mais adequada para a organização do site. 
@@ -58,7 +58,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Github - [Badarando](https://github.com/Badarando)
 - Frontend Mentor - [@Badarando](https://www.frontendmentor.io/profile/Badarando)
-- LinkIn - [marcosbadaro](www.linkedin.com/in/marcosbadaro)
+- LinkIn - [marcosbadaro](https://www.linkedin.com/in/marcosbadaro/)
 
 
 ## Acknowledgments
