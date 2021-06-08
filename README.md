@@ -56,9 +56,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Github - [Add your name here](https://github.com/Badarando) ----> ainda em construção :)
+- Github - [Badarando](https://github.com/Badarando)
 - Frontend Mentor - [@Badarando](https://www.frontendmentor.io/profile/Badarando)
-- LinkIn - [@yourusername](www.linkedin.com/in/marcosbadaro)
+- LinkIn - [marcosbadaro](www.linkedin.com/in/marcosbadaro)
 
 
 ## Acknowledgments
